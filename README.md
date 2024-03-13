@@ -39,7 +39,7 @@ flutter pub add path_provider
 ```shell
 dart pub add path
 ```
-โดยการติดตั้ง package ตัวต่อไปจำเป็นต้องรอให้ package ตัวก่อนหน้าติดตั้งเสร็จก่อน และเมื่อใช้คำสั่งเหล่นนี้ ตัว package จะถูกเพิ่มไปยัง pubspace โดยอัตโนมัติ
+โดยการติดตั้ง package ตัวต่อไปจำเป็นต้องรอให้ package ตัวก่อนหน้าติดตั้งเสร็จก่อน และเมื่อใช้คำสั่งเหล่านี้ ตัว package จะถูกเพิ่มไปยัง pubspace โดยอัตโนมัติ
 
 # lib
 **✨models -> TransactionItem.dart**
